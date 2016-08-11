@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">ShareFlat</string>
+    <string name="loging.button.singin">Iniciar Sesion</string>
+    <string name="loging.button.gotosignup">Crear Cuenta</string>
+    <string name="loging.message.email">Email</string>
+    <string name="loging.message.password">Password</string>
+    <string name="signup_success">Usuario creado exitosamente</string>
 </resources>
